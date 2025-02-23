@@ -8,7 +8,7 @@ const chatbox = document.querySelector(".chatbox");
 
 let userMessage;
 const API_KEY = 
-    "AIzaSyA03vOvdkXe3lzc4AAbRTOAlhEFuvKLrJc";
+    "";
 
 //OpenAI Free APIKey
 
