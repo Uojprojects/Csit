@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyA03vOvdkXe3lzc4AAbRTOAlhEFuvKLrJc"; // Replace with your Gemini API key
+const API_KEY = ""; // Replace with your Gemini API key
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 let studentInfoProvided = false; // Flag to check if student info has been provided
